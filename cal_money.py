@@ -27,22 +27,12 @@ def cal_money(money):
 cal_money(money1)
 cal_money(money2)
 cal_money(money3)
+cal_money(money4)
 
-# cal_money(1.1550) #进1 ，0.16
-# cal_money(0.1550) #不进，1.16
-# cal_money(2.2550)
-# cal_money(0.1750)
-# cal_money(0.1850)
+print('-------------------------\n')
 
-# cal_money(0.50)
-# cal_money(0.51)
-# cal_money(1.50)
-
-# cal_money(1.4)
-# cal_money(1.6)
-
-# cal_money(2.4)
-# cal_money(2.5)
-# cal_money(2.6)
-# cal_money(money3)
-# cal_money(money4)
+cal_money(1.1550) #进1 ，0.16
+cal_money(0.1550) #不进，1.16
+cal_money(2.2550)
+cal_money(0.1750)
+cal_money(0.1850)
