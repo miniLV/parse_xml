@@ -5,6 +5,7 @@ except ImportError:
     import xml.etree.ElementTree as ET
 
 
+
 # 读取xml文档 - demo.xml
 tree = ET.ElementTree(file='demo.xml')
 
